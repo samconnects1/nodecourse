@@ -1,7 +1,6 @@
 {
   "name": "notes-app",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,16 @@
     "nodemon": "^1.18.5",
     "validator": "^10.8.0",
     "yargs": "^17.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samconnects1/nodecourse.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/samconnects1/nodecourse/issues"
+  },
+  "homepage": "https://github.com/samconnects1/nodecourse#readme",
+  "description": ""
 }
